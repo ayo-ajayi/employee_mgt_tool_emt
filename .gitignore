@@ -1,0 +1,6 @@
+*/ctrl.go
+*/db.go
+*/router.go
+.env
+*.txt
+*.sh
